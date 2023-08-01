@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "crso"]
-	path = crso
-	url = https://github.com/cran/crso
 [submodule "GRAPE"]
 	path = GRAPE
 	url = https://github.com/cran/GRAPE
+[submodule "crso"]
+	path = crso
+	url = https://github.com/cran/crso
